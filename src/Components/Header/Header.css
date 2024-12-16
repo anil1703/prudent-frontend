@@ -1,0 +1,10 @@
+.nav-link.active {
+    text-decoration: underline;
+    font-weight: bold;
+    color: white !important;
+  }
+  
+  .bg-success .offcanvas {
+    background-color: #198754 !important; 
+  }
+  
